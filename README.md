@@ -1,8 +1,8 @@
 <div dir="rtl" align="right">
 
-# ⚡️ AUTO CERT - modern ssl manager for marzban-pasargaurd-marzneshin ⚡️
+# ⚡️ AUTO CERT - modern ssl manager ⚡️
 
-> **سرتیفیکیت خودکار پنل های  مرزبان - مرزنشین - پاسارگارد **  
+> سرتیفیکیت خودکار پنل های  مرزبان - مرزنشین - پاسارگارد 
 
 ## نصب و بروزرسانی  
 
