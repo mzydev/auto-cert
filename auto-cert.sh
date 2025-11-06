@@ -68,9 +68,9 @@ BORDER="============================================================"
 show_menu() {
     clear
     echo -e "\e[1;36m$BORDER\e[0m"
-    echo -e "\e[1;32m        🛡️  $MANAGER_NAME SSL Manager (AutoCert 0.1)\e[0m"
+    echo -e "\e[1;32m        🔐  $MANAGER_NAME SSL Manager (AutoCert v1.0)\e[0m"
     echo -e "\e[1;36m$BORDER\e[0m"
-    echo -e "\e[1;32mTelegram:@DVHOST_CLOUD | YouTube: youtube.com/@dvhost_cloud\e[0m"
+    echo -e "\e[1;32mTelegram:@mzydev | YouTube: youtube.com/@sixtininelearn\e[0m"
     echo -e "\e[1;36m$BORDER\e[0m"
     echo -e "1) Install new SSL"
     echo -e "2) Manage existing SSLs"
