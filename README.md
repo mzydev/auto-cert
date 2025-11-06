@@ -7,7 +7,7 @@
 ## نصب و بروزرسانی  
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/mzydev/auto-cert/refs/heads/main/auto-cert.sh )
+bash <(curl -Ls https://raw.githubusercontent.com/mzydev/auto-cert/refs/heads/main/auto-cert.sh)
 ```
 
 
